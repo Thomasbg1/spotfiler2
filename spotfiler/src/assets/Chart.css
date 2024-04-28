@@ -1,0 +1,31 @@
+
+h1.chart-title {
+    text-align: center;
+    padding: 30px;
+
+}
+
+
+Text.text-chart {
+    color: #abab9e;
+    font-family: Noto Sans;
+    font-weight: bold;
+
+}
+
+.custom-tooltip {
+    background-color: #172a74;
+    background-position: center;
+    padding: 5px;
+}
+
+
+.recharts-wrapper {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+
